@@ -1,8 +1,8 @@
 import React from 'react'
 
-function MyApp(){
+function MyContent() {
     return (
-        <div>
+        <content>
             <h1>Fadli Ramadhan</h1>
             <p>My name is Fadli Ramadhan , i'm 25 Year's Old, My Last Education Formal is Vocational High School Media Informatika</p>
             <ul>
@@ -10,8 +10,8 @@ function MyApp(){
                 <li>Mountain</li>
                 <li>Hill</li>
             </ul>
-        </div>
+        </content>
     )
 }
 
-export default MyApp
+export default MyContent
