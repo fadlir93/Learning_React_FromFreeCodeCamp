@@ -1,14 +1,14 @@
 import React from 'react'
-import MyContent from './MyContent'
-import Footer from './Footer'
-import Header from './Header'
 
-function MyApp(){
+function MyApp() {
     return (
         <div>
-            <Header />
-            <MyContent />
-            <Footer />
+            <input type="checkbox" />
+            <p>Place Holder Text Here</p>
+            <input type="checkbox" />
+            <p>Place Holder Text Here</p>
+            <input type="checkbox" />
+            <p>Place Holder Text Here</p>
         </div>
     )
 }
