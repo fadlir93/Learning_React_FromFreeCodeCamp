@@ -1,8 +1,14 @@
 import React from 'react'
+import Todoitem from './Todoitem'
 
 function Footer(){
     return (
-        <h1>This is my footer</h1>
+        <div className="todo-list">
+            <Todoitem />
+            <Todoitem />
+            <Todoitem />
+            <Todoitem />
+        </div>
     )
 }
 
