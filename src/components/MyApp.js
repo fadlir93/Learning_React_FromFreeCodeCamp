@@ -15,7 +15,7 @@ function MyApp() {
             <Header />
             <div className="contacts">
                 <ContactCard
-                    contact = {{name: 'Kitty1', imgUrl: "http://placekitten.com/300/200", phone: '021123456', address: 'jl.jalanan'}}
+                    contact = {{name: 'Kitty', imgUrl: "http://placekitten.com/300/200", phone: '021123456', address: 'jl.jalanan'}}
                     // name= "Kitty1"
                     // imgUrl="http//placekitten.com/300/200"
                     // phone = '021123456'
